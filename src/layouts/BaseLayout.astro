@@ -1,12 +1,14 @@
 ---
 import YukinaConfig from "../../yukina.config";
 import BaseHead from "../components/BaseHead.astro";
+import Analytics from '@vercel/analytics/astro'
 ---
 
 <html lang={YukinaConfig.locale}>
   <BaseHead />
   <body class="overflow-y-hidden">
     <slot />
+    <Analytics />
   </body>
 </html>
 
