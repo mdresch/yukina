@@ -4,7 +4,7 @@ import type { Configuration } from "./src/types/config";
 const YukinaConfig: Configuration = {
   title: "CBA",
   subTitle: "CBA Template Demo Site",
-  brandTitle: "CBA",
+  brandTitle: "CBA Consult",
 
   description: "Demo Site",
 
