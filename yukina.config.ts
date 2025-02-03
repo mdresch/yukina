@@ -3,10 +3,10 @@ import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
   title: "CBA",
-  subTitle: "CBA Template Demo Site",
-  brandTitle: "CBA Consult",
+  subTitle: "CBA SCEV - Self Charging Electric Vehicle",
+  brandTitle: "CBA",
 
-  description: "Demo Site",
+  description: "Blog about the CBA SCEV - Self Charging Electric Vehicle",
 
   site: "https://yukina-blog.vercel.app",
 
@@ -58,6 +58,9 @@ const YukinaConfig: Configuration = {
     "https://i.ibb.co/PZsvkyyG/Adobe-Stock-979483004-Preview.jpg",
     "https://i.ibb.co/qSj3X0q/Adobe-Stock-962733580-Preview.jpg",
     "https://i.ibb.co/tp8mP0RK/Adobe-Stock-673077217-Preview.jpg",
+    "https://i.ibb.co/4w5f1cY5/SCEV-placeholder.jpg",
+    "https://i.ibb.co/5DjgD77/Firefly-Self-Charging-Electric-Vehicle-whereby-the-wheel-rotation-and-solar-but-also-rergenerative-b.jpg",
+    "https://i.ibb.co/Qjb28Nkj/Firefly-Self-Charging-Electric-Vehicle-whereby-the-wheel-rotation-and-solar-but-also-rergenerative-b.jpg",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
